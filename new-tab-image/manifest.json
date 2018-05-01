@@ -1,0 +1,11 @@
+{
+  "name": "Custom Image New Tab Page",
+  "description": "",
+  "version": "0.0",
+  "incognito": "split",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [],
+  "manifest_version": 2
+}
